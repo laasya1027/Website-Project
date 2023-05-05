@@ -1,0 +1,45 @@
+html {
+  background: url(the-smurfs-hidden-village-aesthetic-0fsd568beg18l0o2.jpg)
+    center fixed no-repeat;
+  background-size: cover;
+}
+
+body {
+  background-color: rgba(255, 255, 255, 0.335);
+  width: 800px;
+  padding: 50px 125px 125px 125px;
+  margin: 25px auto;
+  border-radius: 10px;
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav a {
+  margin: 0px 25px;
+  display: inline-block;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: aliceblue;
+}
+
+img {
+  height: 300px;
+  padding: 20px 20px 20px 20px;
+}
+h1 {
+  text-align: center;
+  padding-top: 25px;
+}
+.index body {
+  background-color: #ffffff00;
+}
+h2 {
+  text-decoration: underline;
+}
+p {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+h3 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
